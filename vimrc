@@ -21,6 +21,7 @@ Bundle 'snipmate-snippets'
 Bundle 'garbas/vim-snipmate'
 Bundle 'tpope/vim-rails'
 Bundle 'tpope/vim-haml'
+Bundle 'bronson/vim-trailing-whitespace'
 " Bundle 'TabBar'
 
 filetype plugin indent on       " required! for Vundle
